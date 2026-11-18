@@ -1,0 +1,7 @@
+body { max-width: 42rem; margin: 2rem auto; padding: 0 1rem; font: 1.05rem/1.6 system-ui, sans-serif; color: #222; background: #fff; }
+@media (prefers-color-scheme: dark) { body { color: #ddd; background: #111; } a { color: #8ab4f8; } }
+header { margin-bottom: 2rem; font-weight: bold; }
+header a { color: inherit; text-decoration: none; }
+.posts { list-style: none; padding: 0; }
+time { color: #888; font-variant-numeric: tabular-nums; }
+pre { overflow-x: auto; }
